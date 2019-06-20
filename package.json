@@ -1,8 +1,9 @@
 {
   "name": "root",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@lerna/cli": "^3.13.0"
+  },
   "scripts": {},
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
