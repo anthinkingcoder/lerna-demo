@@ -1,12 +1,9 @@
 {
   "name": "root",
   "private": true,
-  "dependencies": {
-    "@lerna/cli": "^3.13.0"
-  },
-  "scripts": {
-    "pub": "lerna publish"
-  },
+  "dependencies": {},
+  "scripts": {},
   "devDependencies": {
+    "lerna": "^3.15.0"
   }
 }
