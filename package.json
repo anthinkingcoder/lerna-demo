@@ -6,6 +6,6 @@
   },
   "scripts": {
     "install": "lerna bootstrap",
-    "publish": "lerna publish"
+    "pub": "lerna publish"
   }
 }
