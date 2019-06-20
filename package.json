@@ -3,9 +3,7 @@
   "private": true,
   "dependencies": {},
   "scripts": {
-    "pub": "lerna publish"
   },
   "devDependencies": {
-    "lerna": "^3.8.0"
   }
 }
