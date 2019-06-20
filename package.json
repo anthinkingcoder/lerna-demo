@@ -4,6 +4,6 @@
   "dependencies": {},
   "scripts": {},
   "devDependencies": {
-    "lerna": "^3.4.0"
+    "lerna": "3.8.0"
   }
 }
