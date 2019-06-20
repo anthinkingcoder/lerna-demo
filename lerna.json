@@ -16,6 +16,9 @@
       ]
     }
   },
+  "resolutions": {
+    "inquirer": "6.3.1"
+  },
   "packages": [
     "packages/*"
   ]
