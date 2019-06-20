@@ -5,7 +5,6 @@
     "lerna": "^3.15.0"
   },
   "scripts": {
-    "install": "lerna bootstrap",
-    "pub": "lerna publish"
+    "install": "lerna bootstrap"
   }
 }
