@@ -6,5 +6,8 @@
   },
   "resolutions": {
     "inquirer": "6.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^6.3.1"
   }
 }
