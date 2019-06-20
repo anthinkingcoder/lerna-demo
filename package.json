@@ -2,8 +2,8 @@
   "name": "root",
   "private": true,
   "dependencies": {},
-  "scripts": {
-  },
+  "scripts": {},
   "devDependencies": {
+    "lerna": "^3.4.0"
   }
 }
