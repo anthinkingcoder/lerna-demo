@@ -2,6 +2,6 @@
   "name": "package-two",
   "version": "1.0.0",
   "dependencies": {
-    "package-one": "1.0.0"
+    "package-one": "^1.0.0"
   }
 }
