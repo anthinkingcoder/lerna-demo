@@ -4,5 +4,7 @@
   "dependencies": {
     "@lerna/cli": "^3.13.0"
   },
-  "scripts": {}
+  "scripts": {
+    "pub": "lerna publish"
+  }
 }
